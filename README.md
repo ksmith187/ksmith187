@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ksmith187
-- 👀 I’m interested in ...physics and problem solving
-- 🌱 I’m currently learning ...physics and python 
+- 👀 I’m interested in ...Physics, Medical Image Processing, Problem solving
+- 🌱 I’m currently learning ...Physics, Biomedica Image Process and Analysis, Python, Matlab,  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
